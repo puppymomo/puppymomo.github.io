@@ -17,15 +17,15 @@ navbar:
       icon: fa-rss
       #href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
+    + text: "Contact me"
       icon: fa-envelope-o
       href: mailto:puppymomo1@gmail.com                   # CHANGE HERE 
-    - text: "GitHub"
+    + text: "GitHub"
       icon: fa-github
       href: https://github.com/puppymomo       # CHANGE HERE 
 output:
-  html_document:
+  html_document:![Just me](https://github.com/puppymomo/puppymomo.github.io/blob/master/m1.jpg)
     theme: cosmo
     highlight: textmate
     
-    ![Just me](puppymomo/puppymomo.github.io/m1.jpg)
+   

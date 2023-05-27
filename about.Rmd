@@ -1,7 +1,8 @@
 ---
-title: "About me"
+title: "Mocha Alex"
 ---
 
+image: "https://github.com/puppymomo/puppymomo.github.io/blob/master/m1.jpg"
 ## Header
 
 Please go check out my CV. It has everything I am (even parts of me I am not proud of)

@@ -4,6 +4,4 @@ title: "Welcome to my website!"
 
 You're up and running!
 
-- text: "m1"
-      icon: fa-file-jpg-o
-      href: jpg.html
+
